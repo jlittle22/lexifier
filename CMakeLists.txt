@@ -15,4 +15,4 @@ add_executable(lexify ${SOURCE_FILES})
 # add_subdirectory( )
 
 # Link dependencies
-target_link_libraries(lexifier /*LIB*/)
+#target_link_libraries(lexify /*LIB*/)
